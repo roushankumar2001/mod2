@@ -1,0 +1,45 @@
+body{
+background:#fffff2;
+font-size:80pt;
+}
+div {
+background:#a6a6a6;
+}
+.section {
+border: 1px solid black;
+margin: 35px;
+}
+.head{
+text-shadow:
+ blue 1px 1px 3px,
+ skyblue 4px 4px 10px; 
+font-style : bold;
+font-family:serif;
+font-size : 75%;
+text-indent : 1.6cm; 
+text-align : center;
+}
+.para{
+font-family:serif;
+padding:20px;
+font-size:25%;
+text-indent:0.5cm;
+text-align: left;
+}
+.title{
+text-shadow:
+ orange 0 0 3px,
+ brown 2px 2px 5px;
+background:#ffd24d;
+border: 1px solid black;
+margin-left:350px;
+margin-bottom:8px;
+margin-right:0px;
+padding:5px;
+font-style : bold;.
+font-family:serif;
+font-size : 15%;
+text-indent : 1.3cm; 
+text-align :center;
+}
+
