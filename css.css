@@ -13,7 +13,7 @@ text-shadow:
  skyblue 4px 4px 10px; 
 font-style : bold;
 font-family:arial;
-text-indent : 1cm;
+text-indent : 2cm;
 text-align:center; 
 }
 .title{
@@ -29,13 +29,13 @@ border: 1px solid black;
 padding:7px;
 font-style : bold;
 font-family:arial;
-text-indent:0.7cm;
+text-indent:1cm;
 }
 .para{
 Padding:10px;
 text-align:left;
 font-family:arial;
-text-indent:0.3cm;
+text-indent:0.7cm;
 }
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
