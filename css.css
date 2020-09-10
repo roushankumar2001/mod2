@@ -39,13 +39,12 @@ font-size: 20pt;
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
 border: 1px solid black;
+height:300px;
 margin-left:5%;
 margin-bottom:5%;
 margin-right:5%;
 margin-top:5%;
 }
-
-
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
