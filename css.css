@@ -13,9 +13,8 @@ text-shadow:
  skyblue 4px 4px 10px; 
 font-style : bold;
 font-family:arial;
-font-size : 25pt;
-text-indent : 0.5cm; 
-text-align : center;
+text-indent : 0.5cm;
+text-align:center; 
 }
 .title{
 text-align:center;
