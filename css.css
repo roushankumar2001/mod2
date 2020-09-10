@@ -34,7 +34,7 @@ font-size : 25pt;
 .para{
 text-align:left;
 font-family:arial;
-font-size:20pt;
+font-size: 20pt;
 }
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
