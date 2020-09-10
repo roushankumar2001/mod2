@@ -1,46 +1,100 @@
 body{
-background:#fffff2;
-font-size:80pt;
+margin:3px;
+background:#e6e6e6;
 }
 div {
 background:#a6a6a6;
-}
-.section {
-border: 1px solid black;
-margin: 35px;
 }
 .head{
 text-shadow:
  blue 1px 1px 3px,
  skyblue 4px 4px 10px; 
-font-style : bold;
-
-font-family:serif;
-font-size : 75%;
-text-indent : 1.6cm; 
+font-style : bold;
+font-family:arial;
+font-size : 35pt;
+text-indent : 0.5cm; 
 text-align : center;
 }
-.para{
-font-family:serif;
-padding:20px;
-font-size:25%;
-text-indent:0.5cm;
-text-align: left;
-}
+
 .title{
+text-align:center;
+margin-left:100%;
+float:right;
+width:45%;
 text-shadow:
- orange 0 0 3px,
+ orange 1px 1px 3px,
  brown 2px 2px 5px;
 background:#ffd24d;
 border: 1px solid black;
-margin-left:350px;
-margin-bottom:8px;
-margin-right:0px;
-padding:5px;
+padding:7px;
 font-style : bold;
-font-family:serif;
-font-size : 15%;
-text-indent : 1.3cm; 
-text-align :center;
+font-family:arial;
+font-size : 20pt;
+}
+.para{
+text-align:left;
+font-family:arial;
+font-size:15pt;
+
 }
 
+@media only screen and (max-width: 767px){
+
+.section1,.section2,.section3 {
+border: 1px solid black;
+height:300px;
+margin-left:5%;
+margin-bottom:5%;
+margin-right:5%;
+margin-top:5%;
+}
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+.section1{
+float:left;
+width:48%;
+height:300px;
+border: 1px solid black;
+margin-left:4px;
+margin-right:4px;
+margin-bottom:5px;
+}
+.section2{
+float:right;
+width:48%;
+height:300px;
+border: 1px solid black;
+margin-right:4px;
+margin-left:4px;
+margin-bottom:5px;
+}
+.section3{
+float:left;
+width:99%;
+hight:30vh;
+border: 1px solid black;
+margin-top:8px
+margin-right:4px;
+margin-left:4px;
+margin-bottom:5px;
+}
+
+
+} 
+@media all and (min-width: 992px){
+
+.section1,.section2,.section3
+{
+float:right;
+width:31.25%;
+height:340px;
+border:4px solid black;
+margin-left:6px;
+margin-right:6px;
+margin-bottom:6px;
+}
+}
