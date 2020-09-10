@@ -32,6 +32,7 @@ font-family:arial;
 font-size: 25pt;
 }
 .para{
+Padding:3px;
 text-align:left;
 font-family:arial;
 font-size: 20pt;
@@ -71,7 +72,7 @@ border: 1px solid black;
 margin-top:8px
 margin-right:4px;
 margin-left:4px;
-margin-bottom:5px;
+margin-bottom:15px;
 }
 } 
 @media all and (min-width: 992px){
