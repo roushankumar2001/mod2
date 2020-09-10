@@ -9,13 +9,13 @@ background:#a6a6a6;
 text-shadow:
  blue 1px 1px 3px,
  skyblue 4px 4px 10px; 
-font-style : bold;
+font-style : bold;
+
 font-family:arial;
 font-size : 35pt;
 text-indent : 0.5cm; 
 text-align : center;
 }
-
 .title{
 text-align:center;
 margin-left:100%;
@@ -29,17 +29,14 @@ border: 1px solid black;
 padding:7px;
 font-style : bold;
 font-family:arial;
-font-size : 20pt;
+font-size : 25pt;
 }
 .para{
 text-align:left;
 font-family:arial;
-font-size:15pt;
-
+font-size:20pt;
 }
-
 @media only screen and (max-width: 767px){
-
 .section1,.section2,.section3 {
 border: 1px solid black;
 height:300px;
