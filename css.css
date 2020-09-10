@@ -3,6 +3,7 @@ margin:3px;
 background:#e6e6e6;
 }
 div {
+box-sizing:border-box; 
 background:#a6a6a6;
 }
 .head{
