@@ -39,7 +39,6 @@ font-size:20pt;
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
 border: 1px solid black;
-height:300px;
 margin-left:5%;
 margin-bottom:5%;
 margin-right:5%;
