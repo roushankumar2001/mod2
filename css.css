@@ -4,6 +4,7 @@ background:#e6e6e6;
 }
 div {
 background:#a6a6a6;
+Overflow:auto;
 }
 .head{
 text-shadow:
@@ -28,7 +29,7 @@ border: 1px solid black;
 padding:7px;
 font-style : bold;
 font-family:arial;
-font-size : 25pt;
+font-size: 25pt;
 }
 .para{
 text-align:left;
@@ -38,7 +39,7 @@ font-size: 20pt;
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
 border: 1px solid black;
-height:300px;
+height:340px;
 margin-left:5%;
 margin-bottom:5%;
 margin-right:5%;
@@ -51,7 +52,7 @@ margin-top:5%;
 .section1{
 float:left;
 width:48%;
-height:300px;
+height:340px;
 border: 1px solid black;
 margin-left:4px;
 margin-right:4px;
@@ -60,7 +61,7 @@ margin-bottom:5px;
 .section2{
 float:right;
 width:48%;
-height:300px;
+height:340px;
 border: 1px solid black;
 margin-right:4px;
 margin-left:4px;
@@ -69,7 +70,7 @@ margin-bottom:5px;
 .section3{
 float:left;
 width:99%;
-hight:300px;
+hight:340px;
 border: 1px solid black;
 margin-top:8px
 margin-right:4px;
