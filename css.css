@@ -3,6 +3,7 @@ margin:3px;
 background:#e6e6e6;
 }
 div {
+font-size:100%;
 box-sizing:border-box; 
 background:#a6a6a6;
 }
@@ -12,7 +13,7 @@ text-shadow:
  skyblue 4px 4px 10px; 
 font-style : bold;
 font-family:arial;
-font-size : 25em;
+font-size : 25pt;
 text-indent : 0.5cm; 
 text-align : center;
 }
@@ -29,13 +30,11 @@ border: 1px solid black;
 padding:7px;
 font-style : bold;
 font-family:arial;
-font-size: 20em;
 }
 .para{
 Padding:10px;
 text-align:left;
 font-family:arial;
-font-size: 15em;
 }
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
