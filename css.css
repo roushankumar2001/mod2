@@ -12,7 +12,7 @@ text-shadow:
  skyblue 4px 4px 10px; 
 font-style : bold;
 font-family:arial;
-font-size : 15em;
+font-size : 25em;
 text-indent : 0.5cm; 
 text-align : center;
 }
@@ -29,13 +29,13 @@ border: 1px solid black;
 padding:7px;
 font-style : bold;
 font-family:arial;
-font-size: 90%;
+font-size: 20em;
 }
 .para{
 Padding:10px;
 text-align:left;
 font-family:arial;
-font-size: 70%;
+font-size: 15em;
 }
 @media only screen and (max-width: 767px){
 .section1,.section2,.section3 {
